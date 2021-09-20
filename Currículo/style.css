@@ -1,0 +1,67 @@
+
+body {
+    background-color: rgb(234, 241, 239);
+    font-size: 17px;
+    margin: 50px;
+    background-color: lightgray;
+        
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: orange;
+    
+}
+
+
+.fotoinsta {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin: 50px;
+    }
+
+.nome {
+    margin: 0;
+    
+}
+
+.objetivo {
+    display: flex;
+    background-color: lightgray;
+    margin: 10px 22px 10px 22px;
+    
+}
+
+.chef {
+    display: flex;
+    background-color: lightgray;
+    
+}
+
+.main {
+    align-items: center;
+    display: flex;
+    background-color: lightgray;
+    
+}
+.granfinale {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightgray;
+}
+
+.lkdn {
+    color: orange;
+    text-decoration: none;
+    background-color: black;
+}
+
+.gt {
+    color: orange;
+    text-decoration: none;
+    background-color: black;
+}
